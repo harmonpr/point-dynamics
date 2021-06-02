@@ -1,1 +1,1 @@
-# point-dynamics
+# Point dynamics
